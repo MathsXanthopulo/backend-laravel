@@ -148,4 +148,4 @@ Se ainda houver problemas, verifique:
 - A versão do PHP (deve ser 8.1+)
 - As permissões de instalação de pacotes
 - O repositório de pacotes do sistema
-- Os logs de erro do PHP 
+- Os logs de erro do PHP.
